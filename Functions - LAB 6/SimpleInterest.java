@@ -17,4 +17,4 @@ public class SimpleInterest {
         double interest = (a * b * c)/100;
         return interest;
     }
-}
+}fesfesfsefsefsefsefsefsefsefsefsef
